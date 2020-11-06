@@ -1,0 +1,11 @@
+{
+    "header": "Hello i18n!",
+    "subject": "I don't output any element",
+    "updated_now": "Updated just now",
+    "updated_one_min": "Updated one minute ago",
+    "updated": "Updated",
+    "mins_ago": "minutes ago",
+    "author_female": "The author is female",
+    "author_male": "The author is male",
+    "author_other": "The author is other"
+}
