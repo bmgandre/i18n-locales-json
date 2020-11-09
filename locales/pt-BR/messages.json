@@ -1,3 +1,11 @@
 {
-  "header": "Olá I18n!"
+  "header": "Olá I18n!",
+  "subject": "Eu não produzo nenhum elemento",
+  "updated_now": "Atualizado agora",
+  "updated_one_min": "Atualizado um minuto atrás",
+  "updated": "Atualizada",
+  "mins_ago": "minutos atrás",
+  "author_female": "A autora é mulher",
+  "author_male": "O autor é homem",
+  "author_other": "O autor é outro"
 }
